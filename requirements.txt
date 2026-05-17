@@ -1,0 +1,15 @@
+# =============================================================================
+#  NEXUS WEATHER INTELLIGENCE — requirements.txt
+#  Install everything with:
+#     pip install -r requirements.txt
+# =============================================================================
+
+streamlit>=1.35.0
+requests>=2.31.0
+folium>=0.16.0
+streamlit-folium>=0.20.0
+plotly>=5.20.0
+pandas>=2.0.0
+
+# sqlite3 is built into Python — no separate install needed.
+# All other libraries (statistics, datetime, json, pathlib) are stdlib.
