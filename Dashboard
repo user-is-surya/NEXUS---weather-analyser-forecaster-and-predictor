@@ -1,6 +1,6 @@
 """
 =============================================================================
-  NEXUS WEATHER INTELLIGENCE  —  dashboard.py
+  NEXUS WEATHER INTELLIGENCE   —  dashboard.py
   Production-grade futuristic AI Weather Dashboard
   Run with:  streamlit run dashboard.py
 =============================================================================
