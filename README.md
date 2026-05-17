@@ -4,21 +4,6 @@ A production-grade futuristic AI Weather Dashboard built with Python + Streamlit
 
 ---
 
-## 📁 File Structure
-
-```
-weather_dashboard/
-├── dashboard.py          ← Main app (run this)
-├── fetch_weather.py      ← Geocoding + per-API fetch functions
-├── multi_api_weather.py  ← Multi-source aggregation + confidence engine
-├── ai_engine.py          ← AI analysis, alerts, chat, recommendations
-├── database.py           ← SQLite history + favourites + preferences
-├── requirements.txt      ← Python dependencies
-└── nexus_weather.db      ← Auto-created on first run (SQLite)
-```
-
----
-
 ## ⚡ Quick Start
 
 ### 1. Install dependencies
