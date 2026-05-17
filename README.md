@@ -47,19 +47,6 @@ Adding keys enables: AQI data, better accuracy, higher confidence scores.
 ```bash
 streamlit run dashboard.py
 ```
-
----
-
-## 🔑 Free API Keys — How to Get Them
-
-| API | Free Tier | Key Required | Get Key |
-|-----|-----------|--------------|---------|
-| **Open-Meteo** | Unlimited | ❌ No | Built-in |
-| **OpenWeatherMap** | 1,000 calls/day | ✅ Yes | https://openweathermap.org/api |
-| **WeatherAPI** | 1,000,000 calls/month | ✅ Yes | https://www.weatherapi.com/ |
-| **Nominatim (OSM)** | Unlimited (fair use) | ❌ No | Built-in |
-| **ipapi.co** | 1,000 calls/day | ❌ No | Built-in |
-
 ---
 
 ## 🎛️ Features Overview
