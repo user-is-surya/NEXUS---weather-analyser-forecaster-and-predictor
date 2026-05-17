@@ -118,7 +118,7 @@ This project is protected under a custom non-commercial license.
 
 - Commercial use is prohibited.
 - Attribution to the original author is required.
-- Modified versions must provide proper credit to the original author.
+- Modified versions must provide proper credit to the original author: Surya
 - Read LICENSE.
 
 Copyright © 2026 Surya
