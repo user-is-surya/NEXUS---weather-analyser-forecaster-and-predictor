@@ -1,9 +1,9 @@
 """
-=============================================================================
+============================================================================
   NEXUS WEATHER INTELLIGENCE — multi_api_weather.py
   Aggregates data from Open-Meteo, OWM, WeatherAPI.
   Performs outlier detection, confidence scoring, and unified output.
-=============================================================================
+============================================================================
 """
 
 import statistics
