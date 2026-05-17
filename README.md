@@ -112,4 +112,13 @@ streamlit run dashboard.py
 ---
 
 ## 📜 Licence
-MIT — free for personal and commercial use.
+## License
+
+This project is protected under a custom non-commercial license.
+
+- Commercial use is prohibited.
+- Attribution to the original author is required.
+- Modified versions must provide proper credit to the original author.
+- Read LICENSE.
+
+Copyright © 2026 Surya
