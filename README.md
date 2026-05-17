@@ -8,11 +8,6 @@ A production-grade futuristic AI Weather Dashboard built with Python + Streamlit
 
 ### 1. Install dependencies
 ```bash
-pip install -r requirements.txt
-```
-
-Or individually:
-```bash
 pip install streamlit requests folium streamlit-folium plotly pandas
 ```
 
